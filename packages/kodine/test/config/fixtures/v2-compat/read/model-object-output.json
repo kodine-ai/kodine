@@ -1,0 +1,4 @@
+{
+  "$schema": "https://kodine.net/config.json",
+  "model": "anthropic/claude-sonnet"
+}
