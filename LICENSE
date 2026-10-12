@@ -1,0 +1,39 @@
+Kodine License — Proprietary (Source-Available)
+
+Copyright (c) 2026 Kodine Bilişim Hizmetleri. All rights reserved.
+
+The source code in this repository (the "Software") is made publicly
+visible solely for transparency, security review, and user trust. Public
+visibility does not grant you any license or right to the Software.
+
+Without a prior written license agreement from Kodine Bilişim Hizmetleri,
+you may NOT:
+
+1. Use the Software, in whole or in part, to build, operate, or offer any
+   product or service, whether commercial or not.
+2. Copy, modify, translate, merge, publish, distribute, sublicense,
+   sell, rent, or lease the Software or any derivative work.
+3. Remove, alter, or obscure any Kodine trademark, logo, or branding, or
+   apply your own or any third party's branding to the Software
+   (no "white-labeling").
+4. Circumvent, disable, or interfere with licensing, billing, or usage
+   metering functionality.
+5. Use the Kodine name, logo, or domain names in any way that suggests
+   endorsement or affiliation.
+
+The only permitted uses without a written agreement are:
+- Installing and running officially distributed Kodine binaries for
+  their intended purpose, subject to the Kodine Terms of Service
+  (https://kodine.net/legal/terms).
+- Reading the source code for personal education or security auditing.
+- Contributing to this repository under the Contributor License
+  Agreement (see CONTRIBUTING.md).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO
+EVENT SHALL KODINE BİLİŞİM HİZMETLERİ BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+This Software contains third-party components under their own licenses;
+see third_party/ for the applicable notices.
+
+For licensing inquiries: destek@kodine.net
