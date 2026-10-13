@@ -1,0 +1,16 @@
+name: Feature request
+description: Suggest an idea for Kodine
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve for you?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your suggestion
+      description: How would you like it to work?
+    validations:
+      required: true

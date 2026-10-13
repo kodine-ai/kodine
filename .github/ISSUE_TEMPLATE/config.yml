@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Kodine website
+    url: https://kodine.net
+    about: Documentation, pricing, and account management.
+  - name: Support
+    url: mailto:help@kodine.net
+    about: Questions and troubleshooting — help@kodine.net
